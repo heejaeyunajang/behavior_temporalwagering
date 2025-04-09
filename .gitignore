@@ -1,0 +1,8 @@
+# Ignore temporary files
+*.asv
+*.m~
+*.mlx~
+*.fig
+*.mat
+*.log
+.DS_Store
