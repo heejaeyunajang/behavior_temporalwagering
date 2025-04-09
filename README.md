@@ -20,4 +20,4 @@ Analysis scripts for evaluating temporal wagering behavior in Constantinople lab
 
 ```matlab
 cd src
-main_temporalwagering
+main_behavior_temporalwagering
