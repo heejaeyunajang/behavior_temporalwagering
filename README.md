@@ -39,5 +39,5 @@ addpath(genpath('utils_core'))
 ```
 
 ### 3. Run the main script
-main_temporalbandit_behavior.m
+main_temporalbandit_behavior
 
