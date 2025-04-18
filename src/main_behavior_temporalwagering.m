@@ -9,7 +9,7 @@ gitdir = 'C:\Users\hjj296\Documents\GitHub';
 %% 
 % Load a list of rats (all rats used for fiber photometry experiments in
 % this paper)
-datadir = fullfile(gitdir, 'behavior_temporalwagering/data');
+datadir = fullfile(gitdir, 'temporalbandit_behavior/data');
 DArats = load(fullfile(datadir, 'ratlist_DA.mat'), 'ratList');
 AChrats = load(fullfile(datadir, 'ratlist_ACh.mat'), 'ratList');
 rDAgAChrats = load(fullfile(datadir, 'ratlist_rDAgACh.mat'), 'ratList');
