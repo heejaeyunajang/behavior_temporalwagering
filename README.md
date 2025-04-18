@@ -34,7 +34,8 @@ git clone https://github.com/heejaeyunajang/utils_core.git
 ```
 
 ### 2. Add all folders to your MATLAB path
-```addpath(genpath('temporalbandit_behavior/src'))
+```matlab
+addpath(genpath('temporalbandit_behavior/src'))
 addpath(genpath('utils_core'))
 ```
 
