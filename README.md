@@ -30,7 +30,6 @@ utils/ % Helper functions
 
 ```bash
 git clone https://github.com/heejaeyunajang/temporalbandit_behavior.git
-cd temporalbandit_behavior
 git clone https://github.com/heejaeyunajang/utils_core.git
 ```
 
